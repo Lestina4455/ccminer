@@ -1,5 +1,5 @@
 
-l#ifndef ALGOS_H
+#ifndef ALGOS_H
 #define ALGOS_H
 
 #include <string.h>
