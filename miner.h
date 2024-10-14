@@ -275,7 +275,7 @@ struct work;
 
 
 extern int scanhash_verus(int thr_id, struct work* work, uint32_t max_nonce, unsigned long *hashes_done);
-
+extern int scanhash_equihash(int thr_id, struct work* work, uint32_t max_nonce, unsigned long *hashes_done);
 
 /* free device allocated memory per algo */
 void algo_free_all(int thr_id);
