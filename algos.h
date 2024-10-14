@@ -1,4 +1,4 @@
-#ifndef ALGOS_H
+www#ifndef ALGOS_H
 #define ALGOS_H
 
 #include <string.h>
@@ -95,7 +95,7 @@ static const char *algo_names[] = {
 	"deep",
 	"decred",
 	"dmd-gr",
-        "equihash
+        "equihash",
 	"verus",
 	"fresh",
 	"fugue256",
