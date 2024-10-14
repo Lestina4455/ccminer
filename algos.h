@@ -95,6 +95,7 @@ static const char *algo_names[] = {
 	"deep",
 	"decred",
 	"dmd-gr",
+        "equihash
 	"verus",
 	"fresh",
 	"fugue256",
