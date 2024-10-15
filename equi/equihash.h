@@ -2,6 +2,8 @@
 #define EQUIHASH_H
 
 #include <stdint.h>
+#include "SSE2NEON.h"
+#include "arm_neon.h"
 
 // miner nonce "cursor" unique for each thread
 #define EQNONCE_OFFSET 30 /* 27:34 */
