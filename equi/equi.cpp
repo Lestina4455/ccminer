@@ -15,7 +15,7 @@
 #include <stdint.h>
 #include <stdbool.h>
 #include <assert.h>
-
+#include "SSE2NEON.h"
 #include "equihash.h"
 
 //#define USE_LIBSODIUM
