@@ -7,7 +7,8 @@
 #include <string.h>
 #include <unistd.h>
 #include <miner.h>
-
+#include "SSE2NEON.h"
+#include "arm_neon.h"
 #include "equihash.h"
 
 extern struct stratum_ctx stratum;
